@@ -35,7 +35,7 @@ function App() {
 
         <section className="text-center">
           <h4 className="text-lg font-medium mb-2">Want to support Project COLONAiVE™?</h4>
-          <p>Email us at <strong>letmehelpyou@saversmed.com</strong></p>
+          <p>Email us at <strong>admin@saversmed.com</strong></p>
         </section>
       </main>
 
@@ -47,3 +47,4 @@ function App() {
 }
 
 export default App;
+
