@@ -9,6 +9,14 @@ export default function Home() {
         Clinician-led. Public-powered. Nation-wide.
       </p>
 
+      <div className="max-w-2xl mx-auto bg-yellow-50 border border-yellow-200 p-4 mb-8 rounded-md shadow-sm">
+        <p className="text-sm text-gray-800 leading-relaxed">
+          <strong>Project COLONAiVE™</strong> supports the use of modern, high-sensitivity blood-based screening tools — 
+          such as the <strong>CE Marked, China NMPA registered and Singapore HSA-cleared ColonAiQ®</strong> — 
+          to triage patients for timely colonoscopy. ColonAiQ® represents one of the validated options available today.
+        </p>
+      </div>
+
       <h2 className="text-xl font-semibold mb-2">Join the Movement</h2>
       <p className="text-gray-700 mb-6 max-w-xl mx-auto">
         Everyone has a role to play – the public, our clinicians, corporate sponsors,
